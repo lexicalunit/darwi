@@ -1,0 +1,2 @@
+# Day 1
+Kobolds were attacking a village, there was a blue dragon attacking the city named Lennithon. Saved a man woman and three kids. Were able to talk to a captured cultist about the Dragon cult, they are looting the town for treasure. Made it to a fort and rested. The mayor of the city noticed that the mill was on fire, so we went to try and save the mill. Went through a tunnel and came out into the mill and was ambushed. We were able to kill all of our attackers though we took heavy damage from the surprise attack.
