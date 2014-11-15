@@ -2,12 +2,13 @@
 
 This repository holds information on my character including her character sheet, spell book, inventory, journal, and action cards such as spellcasting cards.
 
-### [Darwi Shis'urna's Character Sheet](darwi.pdf)
+### [Darwi Shis'urna's Character Sheet](darwi.png)
 
 ## Repository Contents
 
 ### Character Information
 * **[darwi.pdf](darwi.pdf)** &mdash; Combination character sheet built from the [base character sheet](base.pdf), [book of spells](book.pdf), and [Darwi's journal](journal.md). Built by running the script [build.sh](build.sh).
+* **[darwi.png](darwi.png)** &mdash; Flattened image version of [darwi.pdf](darwi.pdf).
 * **[base.pdf](base.pdf)** &mdash; Base character sheet including abilities and skills.
 * **[journal.md](journal.md)** &mdash; Darwi's personal journal of events as they occur in the campaign.
 
@@ -17,6 +18,6 @@ This repository holds information on my character including her character sheet,
 * **[spells.csv](spells.csv)** &mdash; The datafile used to generate both [book.pdf](book.pdf) and [cards.pdf](book.pdf).
 
 ### Utilities
-* **[build.sh](build.sh)** &mdash; Run this script to build the output [darwi.pdf](darwi.pdf).
+* **[build.sh](build.sh)** &mdash; Run this script to build [darwi.pdf](darwi.pdf) and [darwi.png](darwi.png).
 * [D&D Next spellbook card generator](http://hardcodex.ru/)
 * [Javascript DDNext Character Generator Lite](http://www.pathguy.com/ddnext.htm)
