@@ -21,7 +21,7 @@ pdf2ps "darwi.pdf" - | ps2pdf - "flat.pdf"
 convert -resize 1100x -density 300 -quality 100 flat.pdf page.png
 convert page-*.png -append all.png
 convert all.png -background white -flatten flat.png
-pngquant --nofs -s 2 --quality=100 flat.png -fo darwi.png
+pngquant --nofs -s 2 --quality=100 flat.png -fo ../art/darwi.png
 
 # cleanup image conversion artifacts
 rm page-*.png flat.pdf all.png flat.png
