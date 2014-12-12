@@ -5,7 +5,9 @@ This repository holds information on my character including her character sheet,
 ### [Darwi Shis'urna's Character Sheet](art/darwi.png)
 
 ## Todo
-1. Write up a more detailed journal of events for our first session.
+1. Print out updated spell cards, spell book, character sheet, journal, etc...
+1. Add missing features to character sheet as indicated on previously printed out sheet.
+1. Complete leveling up of Darwi to level 2!
 1. Create a somewhat more detailed backstory for Darwi and how she came to be a professor and about her motivations.
 1. Provide a more complete description of Darwi's appearance.
 1. Detail the contents of Darwi's inventory, pockets, and backpack.
